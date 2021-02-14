@@ -121,7 +121,7 @@ body {
 
 .nav__list li:last-child a::after {
     content: '';
-    background: url(/img/icons/2.png) 0 0 / 25px no-repeat;
+    background: url(../img/icons/2.png) 0 0 / 25px no-repeat;
     width: 25px;
     height: 25px;
     margin: 0px 0px 0px 5px;
@@ -130,7 +130,7 @@ body {
 
 .nav__menu li:last-child a::after {
     content: '';
-    background: url(/img/icons/2.png) 0 0 / 25px no-repeat;
+    background: url(../img/icons/2.png) 0 0 / 25px no-repeat;
     width: 25px;
     height: 25px;
     margin: 0px 0px 0px -1px;
