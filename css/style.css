@@ -249,17 +249,17 @@ body {
 .block-2 {
     padding: 45px 0;
     min-height: 700px;
-    background: url(../img/18.png) 129px 651px / auto 30% no-repeat, url(../img/25.png) 50px bottom / auto 89% no-repeat, url(../img/49.png) right 0 / 187px no-repeat, url(../img/44.png) 85px top / 250px repeat-x, url(../img/bg/8.jpg) center / cover no-repeat fixed;
+    background: url(../img/18.png) 129px 588px / auto 30% no-repeat, url(../img/25.png) 50px bottom / auto 89% no-repeat, url(../img/49.png) right 0 / 187px no-repeat, url(../img/44.png) 85px top / 250px repeat-x, url(../img/bg/8.jpg) center / cover no-repeat fixed;
 }
 
 .block-2 p:first-of-type {
-    margin: 0 185px 0 278px;
+    margin: 0 93px 0 222px;
     text-align: right;
     padding: 20px;
 }
 
 .block-2 p:nth-of-type(2) {
-    margin: 0 46px 0 291px;
+    margin: 0 0 0 193px;
     text-align: right;
     padding: 37px 30px 20px 17px;
 }
@@ -273,7 +273,7 @@ body {
 }
 
 .block-2__button {
-    margin: 61px 0 0 1007px;
+    margin: 61px 0 0 1052px;
     display: inline-block;
     max-width: 140px;
     padding: 10px;
